@@ -1,0 +1,4 @@
+[package]
+org = "testorgdevant"
+name = "fuzzy_journey"
+version = "0.1.0"
